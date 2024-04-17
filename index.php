@@ -11,7 +11,7 @@
     <title>PHP - WHOAMI</title>
 </head>
 <body>
-    <div class="container">
+    <div class="container" style="text-align: center; margin-top: 5vh">
         <h1>PHP - WHOAMI</h1>
         <p>
             <?php
